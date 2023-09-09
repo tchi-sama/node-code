@@ -27,7 +27,9 @@ Searching for specific projects within Node Code is a breeze. Whether you're loo
 
 Node Code introduces an innovative Custom Nodes Marketplace, where users can discover and share custom nodes created by the community. This feature expands the platform's capabilities by incorporating a wide range of user-contributed nodes, enhancing its overall functionality and versatility.
 
+
 ## Technologies Used
+
 
 - **JavaScript**: The core language used for building the Node Code application.
 - **React**: A popular JavaScript library for building user interfaces, providing a responsive and dynamic front-end experience.
@@ -50,6 +52,13 @@ Node Code is a groundbreaking platform that combines the power of JavaScript, Re
 
 Explore the [Node Code GitHub Repo](https://github.com/code-node-gui/node-code) to learn more and get involved in this exciting project!
 
+
+
+
+## Screenshots
+![Screenshot (7)](https://github.com/tchisama/node-code/assets/115560200/bd2eb91d-0fd1-4672-b7a8-45fef1f4c362)
+![Screenshot (8)](https://github.com/tchisama/node-code/assets/115560200/1265c5aa-5c26-45c7-9626-013da37d3cd4)
+![Screenshot (12)](https://github.com/tchisama/node-code/assets/115560200/7743b929-d75c-4c5c-8272-ea39671fd8b3)
 
 
 
