@@ -1,5 +1,6 @@
 # Node Code 
-![Frame 2 (3)](https://github.com/code-node-gui/node-code/assets/115560200/0db66c6b-0114-4401-878c-cafce6b96b84)
+
+![Frame 2 (5)](https://github.com/tchisama/node-code/assets/115560200/baac1503-4a08-4702-b505-92dc6c57c7a4)
 
 ## Overview
 
